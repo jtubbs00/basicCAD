@@ -26,3 +26,10 @@ https://cvilleschools.onshape.com/documents/c6ea21cf0922ef3fa70cd97b/w/bbe550558
 
 I learned how to revolve to create a part instead of having to extrude it. 
 https://cvilleschools.onshape.com/documents/a7a71d4e06a11e9632028d01/w/57a19e77f713b81f5dca9082/e/b7914f6d1d97830752c965ee
+
+## Making The WHeel
+
+![TheWheel](images/TheWheel.png)
+
+I used a circular pattern to create the spokes, which was pretty cool. I also used a revolve extrude, which i hadn't before. There were a lot of circles in this one, which was cool cas i like circles.
+https://cvilleschools.onshape.com/documents/721de13ff9da5e2e21d3264e/w/e1c6234713ba8b456ce47a6e/e/f8afc5b8d62b02824397fb37
