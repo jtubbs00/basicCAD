@@ -47,3 +47,11 @@ https://cvilleschools.onshape.com/documents/e5eb23f3072f88019ce282c0/w/9d70ec53f
 
 This was just added onto the wheel. very quick.
 https://cvilleschools.onshape.com/documents/721de13ff9da5e2e21d3264e/w/e1c6234713ba8b456ce47a6e/e/f8afc5b8d62b02824397fb37
+
+## Making Big Bearing
+
+
+![BigBearing](images/BigBearing.png)
+
+Just two very qquick circles extruded.
+https://cvilleschools.onshape.com/documents/1279d84991771e72ae2d17bc/w/3becea321b750fc923cf6fcb/e/e6e2512b9477721b6d54b243
