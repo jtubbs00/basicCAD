@@ -40,3 +40,10 @@ https://cvilleschools.onshape.com/documents/721de13ff9da5e2e21d3264e/w/e1c623471
 
 SO this is two different parts that were put together in the same document. It was pretty cool to do that and learn how to. 
 https://cvilleschools.onshape.com/documents/e5eb23f3072f88019ce282c0/w/9d70ec53ff9ccc55d4ee9861/e/0d3dde0b8668a38c50b25038
+
+## Making the Bearing
+
+![TheBearing](images/TheBearing.png)
+
+This was just added onto the wheel. very quick.
+https://cvilleschools.onshape.com/documents/721de13ff9da5e2e21d3264e/w/e1c6234713ba8b456ce47a6e/e/f8afc5b8d62b02824397fb37
