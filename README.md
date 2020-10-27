@@ -50,8 +50,14 @@ https://cvilleschools.onshape.com/documents/721de13ff9da5e2e21d3264e/w/e1c623471
 
 ## Making Big Bearing
 
-
 ![BigBearing](images/BigBearing.png)
 
 Just two very qquick circles extruded.
 https://cvilleschools.onshape.com/documents/1279d84991771e72ae2d17bc/w/3becea321b750fc923cf6fcb/e/e6e2512b9477721b6d54b243
+
+## SubAssembly
+
+![SubAssembly](images/SubAssembly.png)
+
+Learned about the revolute and fasten mates. This was fun, can't wait to complete it!!
+https://cvilleschools.onshape.com/documents/502ca0e03613d67dbeb04c4b/w/49493cdba123a2704f9de310/e/3e958f2b6401a6168f08353d
