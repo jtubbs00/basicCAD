@@ -61,3 +61,10 @@ https://cvilleschools.onshape.com/documents/1279d84991771e72ae2d17bc/w/3becea321
 
 Learned about the revolute and fasten mates. This was fun, can't wait to complete it!!
 https://cvilleschools.onshape.com/documents/502ca0e03613d67dbeb04c4b/w/49493cdba123a2704f9de310/e/3e958f2b6401a6168f08353d
+
+## Final Assembly
+
+![FinalAssembly](images/FinalAssembly.png)
+
+Used a lot of revolute mates. 
+https://cvilleschools.onshape.com/documents/7e89f92bd98fc47904c261e1/w/ee354934d0978f8231917c31/e/326e0080f71e5f6b877c6681
